@@ -12,14 +12,3 @@ while (a != n ):
         gusses+=1
 
 print(f"You have gussed the number {n} correctly in {gusses} attempt")
-
-
-# try:
-#     a=int(input("Enter a:"))
-#     b=int(input("Enter b:"))
-#     print(a/b)# if a=5 and b=0 give me error
-# except ZeroDivisionError as v:
-#     print("Infinite")
-
-
-
